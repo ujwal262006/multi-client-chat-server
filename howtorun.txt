@@ -1,0 +1,12 @@
+start server here by typing 
+python server.py
+in terminal 
+
+then 
+open cmd locate folder
+cd C:\Users\Ujwal Parashar\Desktop\it infra project
+
+then run client file 
+python client.py
+
+do this as many times as many clients you want to add 
